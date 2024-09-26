@@ -16,4 +16,3 @@ QQ综合工具箱 集合了几十项 功能 基本把所需功能集合为了一
 激活码进群功能
 群a拉至群b换群功能
 图片加水印，群成员有效期提醒等等几十项功能![IMG_2334](https://github.com/user-attachments/assets/efc1e979-becc-40fc-a44e-9d1de1e79cee)
-![IMG_2847](https://github.com/user-attachments/assets/4666feca-082e-451d-a36d-84159011a86e)
